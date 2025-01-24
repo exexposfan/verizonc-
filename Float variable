@@ -1,0 +1,10 @@
+public class PlaygroundVariables3 {
+  public static void main(String args[]) {
+    //add code below this line
+    double fraction = 0.5;
+    System.out.print(fraction); // prints out 0.5
+    
+    
+    //add code above this line
+  }
+}
