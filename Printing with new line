@@ -1,0 +1,16 @@
+public class PlaygroundPrinting2 {
+  public static void main(String args[]) {
+    
+    //add code below this line
+    
+    
+    System.out.print("Hello");
+    System.out.print("world!");
+    // Prints out the following
+    // Hello
+    // world!
+    
+    
+    //add code above this line
+  }
+}
